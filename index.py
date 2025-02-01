@@ -1,0 +1,6 @@
+Tuple1=("wow","alas","ouch",4.5,4)
+intTu=(1,2,3,4,5,6,7,8,9,0)
+repeatTu=(1,3,1,5,2,57,)
+print(Tuple1)
+print(intTu)
+print(repeatTu.count(1))
